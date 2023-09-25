@@ -6,7 +6,7 @@ The goal is to investigate the presence and extent of gender bias in fictional s
 
 **Notes:**
 - Currently, the task is to generate fictional stories or content. The generated text should possess a storytelling quality and incorporate characters, potentially specifying their genders. However, this could also be generating summaries/reviews/recommendations for instance.
-- The perfomrmance of GPT-3 could be compared to GPT-4.
+- The performance of GPT-3.5 could be compared to GPT-2.
 - For now, the focus is on gender bias as the initial point of exploration. Nonetheless, there are numerous other biases yet to be investigated.
 
 **Related literature:**
