@@ -29,3 +29,13 @@ The goal is to investigate the presence and extent of gender bias in fictional s
   - Focus generating narratives.
   - In-context learning.
 </details>
+
+<details>
+<summary><h2>25 okt 2023</h2></summary>
+  
+**Notes:**
+  - Write an litertature overview with different gender biases. What are the pros and cons?
+  - Make decisions on gender bias. Only occupation or adjectives.
+  - David Bamman (BookNLP)
+  - How to control prompts? Masculine/female/neutral prompt.
+</details>
