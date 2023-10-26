@@ -37,5 +37,5 @@ The goal is to investigate the presence and extent of gender bias in fictional s
   - Write an litertature overview with different gender biases. What are the pros and cons?
   - Make decisions on gender bias. Only occupation or adjectives.
   - David Bamman (BookNLP)
-  - How to control prompts? Masculine/female/neutral prompt.
+  - How to control prompts? Masculine/feminine/neutral prompt.
 </details>
